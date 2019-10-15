@@ -116,3 +116,5 @@ Temporary Items
 
 # Compiled JS
 dist
+crybby.json
+src/config/providers/gcloud.config.ts
